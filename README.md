@@ -1,1 +1,1 @@
-# prog1
+Egy fiú első góljait mutatja be a scratch projectem.
